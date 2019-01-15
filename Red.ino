@@ -63,14 +63,11 @@ unsigned long min_trajetA = 10; // Duree en min Trajet entre Station et Point
 unsigned long min_trajetR = 10; // Duree en min Trajet entre Station et Point 
 
 //------- Replace the following! ------
-//char ssid[] = "iPhone de Dan";       // your network SSID (name)
-//char password[] = "dan1234567";  // your network key
-
-const char* ssid     = "FR-PASSY";
-const char* password = "i8co-8l9j-fr2e";
+const char* ssid     = "xxxxxx";// your network SSID (name)
+const char* password = "xxxxxx";// your network key
 
 // Paris 
-char city_id[7] = "@3090";
+char city_id[7] = "@3090"; // Search on http://aqicn.org/
 
 
 #define MAX_DEVICES 10
